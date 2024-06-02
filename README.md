@@ -6,6 +6,15 @@
 
 - 🎓 Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistenas. (Cursando)
 
+### Minhas Tecnologia
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="50px"/>
+----------
+
+
+
 ![Rafael Apolinário GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelApolinario90&show_icons=true&theme=dracula)
 
 
