@@ -18,8 +18,6 @@
   <a href="https://www.linkedin.com/in/rafael-apolin%C3%A1rio-pcd-a95034121/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 <br />
-<br />
-
 
 # Minhas Tecnologia 🎓
 <br />
@@ -32,7 +30,7 @@
 </p>
 
 <b />
-
+<b />
 
 ![Rafael Apolinário GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelApolinario90&show_icons=true&theme=dracula)
 ![Rafael Apolinário Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelApolinario90&layout=compact&langs_count=7&theme=dracula)
