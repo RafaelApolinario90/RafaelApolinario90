@@ -27,7 +27,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="50px"/>
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="50px"/>
-<img src="https://behind-the-scenes.net/wp-content/uploads/getting-started-with-pycharm-768x384.jpg" width="50px"/>
+<img src="hhttps://scontent.fcpq5-1.fna.fbcdn.net/v/t39.30808-6/438171375_845707620930487_593707480427070456_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFqZs11lF_Y3VFia6qJVRMZSAso6l61fMxICyjqXrV8zJ_YXm8sBrLJ2tY8DKQ1X_Ed_GxX9SUaQ6qCFtGER8gF&_nc_ohc=jPLAiSs5QkUQ7kNvgFezNN8&_nc_ht=scontent.fcpq5-1.fna&oh=00_AYCqxzJc9HcteFzPb5VqOL7M7aW8AwNGSgHcS5yPGD0qng&oe=66629BE7" width="50px"/>
 </p>
 
 <b />
