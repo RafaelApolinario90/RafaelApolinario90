@@ -1,7 +1,8 @@
 <center><enter><h2> Hello World, I'm Rafael Apolinário 👋 </h2></enter></center>
+<img style="margin-top: 40px;" align="right" width="400px" src="https://i.pinimg.com/originals/2b/cc/0e/2bcc0e11960ebe99ec2c4d402328a970.gif">
 
-Me chamo Rafael, sou PCD - Deficiente Autidivo e moro em estdos São Paulo - SP.
-![Gif do Gatinho](https://i.pinimg.com/originals/2b/cc/0e/2bcc0e11960ebe99ec2c4d402328a970.gif)
+
+Me chamo Rafael, sou PCD - Deficiente Autidivo e moro em estdos São Paulo - SP. 
 ---------
 
 
