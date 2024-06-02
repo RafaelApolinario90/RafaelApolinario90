@@ -7,7 +7,8 @@
 
 - 📚 Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistenas (Cursando).
 <br />
-<igm src="https://openseauserdata.com/files/5c7db0d6e4ea8e09b6476984f8cc2c55.png" width="50px"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50px"/>
 <b />
 # Minhas Tecnologia 🎓
 
