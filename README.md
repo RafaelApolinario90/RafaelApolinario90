@@ -6,12 +6,15 @@
 
 - 🎓 Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistenas. (Cursando)
 
-### Minhas Tecnologia
+<p align="center"><enter><h2> Minhas Tecnologia </h2></enter></p>
 
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50px"/>
+
+
 </p>
 
 
