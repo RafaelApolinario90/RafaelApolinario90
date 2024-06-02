@@ -5,10 +5,10 @@
 ### Me chamo Rafael, sou PCD - Deficiente Autidivo e moro estdo em São Paulo - SP.! 😃
 <br />
 
-- 🎓 Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistenas (Cursando).
+- 📚 Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistenas (Cursando).
 <br />
 
-# Minhas Tecnologia
+# Minhas Tecnologia 🎓
 
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50px"/>
