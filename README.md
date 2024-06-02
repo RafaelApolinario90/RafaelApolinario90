@@ -4,7 +4,12 @@
 
 ### Me chamo Rafael, sou PCD - Deficiente Autidivo e moro estdo em São Paulo - SP.! 😃
 <br />
-
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 - 📚 Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistenas (Cursando).
 <div> 
  <div align="center">
@@ -12,6 +17,7 @@
   <a href="https://www.linkedin.com/in/rafael-apolin%C3%A1rio-pcd-a95034121/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 # Minhas Tecnologia 🎓
+<br />
 
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50px"/>
