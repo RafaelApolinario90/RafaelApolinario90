@@ -1,4 +1,4 @@
-<center><enter><h2> Hello World, I'm Rafael Apolinário 👋 </h2></enter></center>
+<p align="center"><enter><h2> Hello World, I'm Rafael Apolinário 👋 </h2></enter></p>
 <img style="margin-top: 40px;" align="right" width="400px" src="https://i.pinimg.com/originals/2b/cc/0e/2bcc0e11960ebe99ec2c4d402328a970.gif">
 
 
@@ -8,11 +8,11 @@
 
 ### Minhas Tecnologia
 
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="50px"/>
-----------
-
+</p>
 
 
 ![Rafael Apolinário GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelApolinario90&show_icons=true&theme=dracula)
