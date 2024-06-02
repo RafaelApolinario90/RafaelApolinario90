@@ -2,8 +2,13 @@
 <img style="margin-top: 40px;" align="right" width="400px" src="https://i.pinimg.com/originals/2b/cc/0e/2bcc0e11960ebe99ec2c4d402328a970.gif">
 
 
-Me chamo Rafael, sou PCD - Deficiente Autidivo e moro em estdos São Paulo - SP. 
----------
+### Me chamo Rafael, sou PCD - Deficiente Autidivo e moro estdo em São Paulo - SP.! 😃
+
+- 🎓 Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistenas. (Cursando)
+-----
+
+
+
 
 
 <!--
