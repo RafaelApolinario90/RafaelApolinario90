@@ -5,9 +5,8 @@
 ### Me chamo Rafael, sou PCD - Deficiente Autidivo e moro estdo em São Paulo - SP.! 😃
 
 - 🎓 Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistenas. (Cursando)
------
 
-
+![Rafael Apolinário GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelApolinario90&show_icons=true&theme=dracula)
 
 
 
