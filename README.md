@@ -37,6 +37,9 @@ __negrito e italico__
 ![Texto da Imagem](https://assets-global.website-files.com/5d4955a615f2c1cba8fdc3f9/623dda7e41299b3cacaacc16_HTML_Blog-scaled-p-1600.jpeg)
 
 
+
+
+
 <!--
 **RafaelApolinario90/RafaelApolinario90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
