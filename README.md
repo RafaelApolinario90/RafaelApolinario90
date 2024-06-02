@@ -27,7 +27,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="50px"/>
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="50px"/>
-<img src="https://e7.pngegg.com/pngimages/211/917/png-clipart-pycharm-integrated-development-environment-jetbrains-intellij-idea-python-others-miscellaneous-angle.png" width="50px"/>
+<img src="https://www.liblogo.com/img-logo/py8871icf9-pycharm-logo-intellij-pycharm-alt-macos-icon-in-macos-big-sur.png" width="50px"/>
 </p>
 
 <b />
