@@ -6,7 +6,7 @@
 
 - 🎓 Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistenas. (Cursando)
 
-<p align="center"><enter><h2> Minhas Tecnologia </h2></enter>
+<enter><h2> Minhas Tecnologia </h2></enter>
 
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50px"/>
