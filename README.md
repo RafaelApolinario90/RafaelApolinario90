@@ -5,7 +5,7 @@
 ### Seja bem-vindos ao meu GitHub ✌️, sou PCD - Deficiente Autidivo 🦻 e moro no estado de São Paulo-SP.! 😃
 <br />
 
-- 📚 Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistenas (Cursando).
+- 📚 Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistenas - Universidade Anhembi Morumbi (UAM) - (Cursando).
 <br />
 <br />
 <br />
