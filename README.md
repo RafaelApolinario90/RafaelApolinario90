@@ -31,7 +31,7 @@
 </p>
 <br />
 
-# Apredendo Tecnologia 💻
+ Apredendo Tecnologia 💻<br />
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1280px-Pandas_logo.svg.png" width="50px"/>
 <img src= "https://cdn.icon-icons.com/icons2/2699/PNG/512/jupyter_logo_icon_169453.png" width="50px"/>
@@ -42,11 +42,10 @@
 <b />
 <b />
 
-<div>
+
 ![Rafael Apolinário GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelApolinario90&show_icons=true&theme=dracula)
 ![Rafael Apolinário Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelApolinario90&layout=compact&langs_count=7&theme=dracula)
 
-</div>
 
 <!--
 **RafaelApolinario90/RafaelApolinario90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
