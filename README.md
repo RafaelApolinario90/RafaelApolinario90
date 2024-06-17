@@ -35,7 +35,7 @@
 <br />
 
 <p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1280px-Pandas_logo.svg.png" width="100px"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1NJpt4g85NYy3XL4HO3SixfRH0qEEnW8_GAJTo8N9IvUaQdxfi7K6KJZI6EPJimFRV_0&usqp=CAU" width="100px"/>
 <img src= "https://cdn.icon-icons.com/icons2/2699/PNG/512/jupyter_logo_icon_169453.png" width="100px"/>
 </p>
 <br />
