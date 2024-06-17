@@ -29,7 +29,12 @@
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="50px"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" width="50px"/>
 </p>
+<br />
 
+# Apredendo Tecnologia 💻
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1280px-Pandas_logo.svg.png" width="50px"/>
+<img src= "https://cdn.icon-icons.com/icons2/2699/PNG/512/jupyter_logo_icon_169453.png" width="50px/>
+<br />
 <b />
 <b />
 
