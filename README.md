@@ -19,7 +19,7 @@
 </div>
 <br />
 
-# Minhas Tecnologia 🎓
+# Estou apredendo... \ I'm learding...  🎓
 <br />
 
 <p align="center">
@@ -29,16 +29,15 @@
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="50px"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" width="50px"/>
 </p>
-<br />
-
-# Apredendo Tecnologia 💻
-<br />
-
-<p align="center">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1NJpt4g85NYy3XL4HO3SixfRH0qEEnW8_GAJTo8N9IvUaQdxfi7K6KJZI6EPJimFRV_0&usqp=CAU" width="100px"/>
-<img src= "https://logowik.com/content/uploads/images/jupyter251.logowik.com.webp" width="100px"/>
+<img src="https://camo.githubusercontent.com/cbea6d07c4194169f76dd7092b3aecc9ca5a02312cd96dee14141ae9005b26fe/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a7570797465722f6a7570797465722d6f726967696e616c2d776f72646d61726b2e737667" width="50px"/>
 </p>
+<img src="https://camo.githubusercontent.com/e8a5f4b9b8dd4744587a8107387603fcee2dfae96a34f75a867641bcea088113/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d7973716c2f6d7973716c2d6f726967696e616c2d776f72646d61726b2e737667" width="50px"/>
+</p>
+
+
 <br />
+
+
 
 
 <b />
