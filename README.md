@@ -63,9 +63,4 @@ Estou aberto a colaborações e aprendizado contínuo. Vamos transformar dados e
 ![Rafael Apolinário GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelApolinario90&show_icons=true&theme=dracula)
 ![Rafael Apolinário Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelApolinario90&layout=compact&langs_count=7&theme=dracula)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RafaelApolinario90/RafaelApolinario90/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RafaelApolinario90/RafaelApolinario90/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RafaelApolinario90/RafaelApolinario90/output/github-contribution-grid-snake.svg">
-</picture>
 
