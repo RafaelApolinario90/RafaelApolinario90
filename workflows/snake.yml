@@ -1,0 +1,26 @@
+# .github/workflows/snake.yml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # roda todo dia à meia-noite
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate Snake SVG
+        uses: Platane/snk@v3
+        with:
+          github_user_name: RafaelApolinario90
+          outputs: |
+            ./output/github-contribution-grid-snake.svg
+            ./output/github-contribution-grid-snake-dark.svg
+          color: "#00BFFF"  # azul claro
+          color_dark: "#1E90FF"  # azul escuro
+      - name: Commit SVG
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "Atualizando cobra azul 🐍"
+          add: "output/*.svg"
