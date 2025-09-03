@@ -1,23 +1,37 @@
 name: Generate Snake
 
 on:
-  schedule:
-    - cron: "0 0 * * *"   # roda todo dia à meia-noite
   workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'    # roda todo dia à meia-noite (opcional)
+
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: RafaelApolinario90
-          outputs: |
-            dist/github-snake.svg?color_snake=%230086ff&color_dots=#ebedf0,#9fc5ff,#6fb0ff,#3b92ff,#0a78ff
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=%230086ff&color_dots=#161b22,#0d2a4d,#0b3a78,#0850b3,#0566e6
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      - name: Push to output branch
+      - name: Generate SVGs (snk)
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=%230086ff&color_dots=#ebedf0,#9fc5ff,#6fb0ff,#3b92ff,#0a78ff
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%230086ff&color_dots=#161b22,#0d2a4d,#0b3a78,#0850b3,#0566e6
+
+      - name: Debug: show dist content
+        run: |
+          echo "=== Conteúdo de dist ==="
+          ls -la dist || true
+          echo "=== Tipos dos arquivos ==="
+          file dist/* || true
+
+      - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
