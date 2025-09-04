@@ -11,6 +11,11 @@
 <br />
 <br />
 
+<div align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FRafaelApolinarioPCD%2FRafaelApolinarioPCD&label=VISITAS&labelColor=%23000&countColor=%230A0209" />
+  <br><br>
+</div>
+
 ## 💼 Áreas de Interesse  
 - Análise de Dados  
 - Python, SQL, Power BI, Excel  
@@ -56,10 +61,7 @@ Gosto de transformar dados em insights, utilizando ferramentas modernas para an�
 
 ---
 
-<div align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FRafaelApolinarioPCD%2FRafaelApolinarioPCD&label=VISITAS&labelColor=%23000&countColor=%230A0209" />
-  <br><br>
-</div>
+
 
 
 ![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
