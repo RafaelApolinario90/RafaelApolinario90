@@ -18,7 +18,7 @@
 
 ---
 
-<p align="center"><img src="http://img.shields.io/static/v1?label=STATUS&message=ESTUDANTE%20ANALISE%20DE%20DADOS&color=GREEN&style=for-the-badge"/></p>
+<p align="center"><img src="http://img.shields.io/static/v1?label=STATUS&message=ASPIRANTE%20A%20ANALISTA%20DE%20DADOS&color=GREEN&style=for-the-badge"/></p>
 
 <div style="display: inline_block"><br>
 
