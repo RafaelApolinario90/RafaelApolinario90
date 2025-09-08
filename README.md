@@ -18,8 +18,11 @@
 
 ---
 
+<p align="center"><img src="http://img.shields.io/static/v1?label=STATUS&message=ESTUDANTE%20ANALISE%20DE%20DADOS&color=GREEN&style=for-the-badge"/></p>
+
 <div style="display: inline_block"><br>
 
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -91,7 +94,4 @@ Estou aberto a colaborações, networking, ou qualquer oportunidade para aprende
   <img src=https://nirzak-streak-stats.vercel.app/?user=RafaelApolinario90&theme=dark&hide_border=false/> 
 </div>
 
-<div align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FRafaelApolinarioPCD%2FRafaelApolinarioPCD&label=VISITAS&labelColor=%23000&countColor=%230A0209" />
-  <br><br>
-</div>
+![GitHub Org's stars](https://img.shields.io/github/stars/RafaelApolinario90?style=social)
