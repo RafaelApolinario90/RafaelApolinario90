@@ -18,12 +18,6 @@
 
 ---
 
-
-<div align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FRafaelApolinarioPCD%2FRafaelApolinarioPCD&label=VISITAS&labelColor=%23000&countColor=%230A0209" />
-  <br><br>
-</div>
-
 <div style="display: inline_block"><br>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -93,11 +87,11 @@ Estou aberto a colaborações, networking, ou qualquer oportunidade para aprende
 
 ![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
+<div align="center">
+  <img src=https://nirzak-streak-stats.vercel.app/?user=RafaelApolinario90&theme=dark&hide_border=false/> 
+</div>
 
-<!-- ## 💬 **Como posso ajudar?**  
-Estou aberto a colaborações e aprendizado contínuo. Vamos transformar dados em valor!
-
-
-![Rafael Apolinário GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelApolinario90&show_icons=true&theme=dracula)
-![Rafael Apolinário Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelApolinario90&layout=compact&langs_count=7&theme=dracula)
--->
+<div align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FRafaelApolinarioPCD%2FRafaelApolinarioPCD&label=VISITAS&labelColor=%23000&countColor=%230A0209" />
+  <br><br>
+</div>
