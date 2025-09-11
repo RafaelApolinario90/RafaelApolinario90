@@ -18,6 +18,12 @@
 
 ---
 
+ ## ✨ Palavra Bíblica 
+
+<p align="center">
+  <i><b>"O Senhor é o meu pastor, nada me faltará." — Salmos 23:1</b></i>
+</p> 
+<br><br>
 <p align="center"><img src="http://img.shields.io/static/v1?label=STATUS&message=ASPIRANTE%20A%20ANALISTA%20DE%20DADOS&color=GREEN&style=for-the-badge"/></p>
 
 <div style="display: inline_block"><br>
@@ -30,6 +36,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
@@ -78,20 +85,24 @@ Transformar dados em insights e soluções reais, buscando sempre aprender novas
 ## 🤝 Vamos conversar?
 Estou aberto a colaborações, networking, ou qualquer oportunidade para aprender e crescer juntos!
 
-- [E-mail](mailto:rafael.f.apolinario@outlook.com)
-- [LinkedIn](https://www.linkedin.com/in/rafael-apolin%C3%A1rio-pcd-a95034121)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:rafael.f.apolinario@outlook.com)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rafael-apolin%C3%A1rio-pcd-a95034121)
 
 ---
 
 > “O segredo do sucesso é nunca parar de aprender — especialmente no mundo dos dados.”
 
 
+![Snake animation](https://github.com/RafaelApolinario90/RafaelApolinario90/blob/output/github-contribution-grid-snake-dark.svg)
 
+[![Rafael's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RafaelApolinario90&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+![GitHub Org's stars](https://img.shields.io/github/stars/RafaelApolinario90?style=social)
+![Visitors](https://komarev.com/ghpvc/?username=RafaelApolinario90&color=blue)
+
+| ![World Map](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafaelApolinario90&theme=radical) | ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RafaelApolinario90&theme=radical) | ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RafaelApolinario90&theme=radical) |
+| :-: | :-: | :-: |
 
 <div align="center">
   <img src=https://nirzak-streak-stats.vercel.app/?user=RafaelApolinario90&theme=dark&hide_border=false/> 
 </div>
-
-![GitHub Org's stars](https://img.shields.io/github/stars/RafaelApolinario90?style=social)
