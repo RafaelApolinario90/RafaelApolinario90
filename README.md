@@ -106,12 +106,6 @@ Estou aberto a colaborações, networking, ou qualquer oportunidade para aprende
 
 
 
-### 📌 Linguagens mais usadas
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelApolinario90&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
-### 🔥 Atividade no GitHub
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RafaelApolinario90&theme=github-dark&hide_border=true" />
+  <img src="https://img.shields.io/badge/Troféu%20do%20GitHub%20🏆-Atividade%20Constante-blue?style=for-the-badge" />
 </p>
