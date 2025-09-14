@@ -106,7 +106,12 @@ Estou aberto a colaborações, networking, ou qualquer oportunidade para aprende
 
 
 
-### 📊 Dashboard de Análise de Dados
+### 📌 Linguagens mais usadas
 <p align="center">
-  <img src="dashboard.gif" width="600">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelApolinario90&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+### 🔥 Atividade no GitHub
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RafaelApolinario90&theme=github-dark&hide_border=true" />
 </p>
