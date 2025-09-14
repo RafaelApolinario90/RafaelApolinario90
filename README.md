@@ -107,5 +107,5 @@ Estou aberto a colaborações, networking, ou qualquer oportunidade para aprende
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Troféu%20do%20GitHub%20🏆-Atividade%20Constante-blue?style=for-the-badge" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RafaelApolinario90&show_icons=true&rank_icon=github&theme=tokyonight" />
 </p>
