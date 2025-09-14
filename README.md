@@ -103,3 +103,10 @@ Estou aberto a colaborações, networking, ou qualquer oportunidade para aprende
 <div align="center">
   <img src=https://nirzak-streak-stats.vercel.app/?user=RafaelApolinario90&theme=dark&hide_border=false/> 
 </div>
+
+
+
+### 📊 Dashboard de Análise de Dados
+<p align="center">
+  <img src="dashboard.gif" width="600">
+</p>
