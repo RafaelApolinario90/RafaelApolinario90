@@ -97,7 +97,7 @@ Estou aberto a colaborações, networking, ou qualquer oportunidade para aprende
 ![GitHub Org's stars](https://img.shields.io/github/stars/RafaelApolinario90?style=social)
 ![Visitors](https://komarev.com/ghpvc/?username=RafaelApolinario90&color=blue)
 
-| ![World Map](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafaelApolinario90&theme=radical) | ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RafaelApolinario90&theme=radical) | ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RafaelApolinario90&theme=radical) |
+| ![World Map](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafaelApolinario90&theme=radical) | ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RafaelApolinario90&theme=radical) |  <img src="https://github-readme-stats.vercel.app/api?username=RafaelApolinario90&show_icons=true&rank_icon=github&theme=tokyonight" /> |
 | :-: | :-: | :-: |
 
 <div align="center">
@@ -105,7 +105,3 @@ Estou aberto a colaborações, networking, ou qualquer oportunidade para aprende
 </div>
 
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RafaelApolinario90&show_icons=true&rank_icon=github&theme=tokyonight" />
-</p>
