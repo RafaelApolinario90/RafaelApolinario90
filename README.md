@@ -100,6 +100,7 @@ Estou aberto a colaborações, networking, ou qualquer oportunidade para aprende
 | ![World Map](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafaelApolinario90&theme=radical) | ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RafaelApolinario90&theme=radical) |  <img src="https://github-readme-stats.vercel.app/api?username=RafaelApolinario90&show_icons=true&rank_icon=github&theme=tokyonight" /> |
 | :-: | :-: | :-: |
 
+
 <div align="center">
   <img src=https://nirzak-streak-stats.vercel.app/?user=RafaelApolinario90&theme=dark&hide_border=false/> 
 </div>
