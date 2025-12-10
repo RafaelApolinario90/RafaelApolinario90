@@ -25,7 +25,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" alt="Toolbox" width="30" height="32" /> Tecnologias e Ferramentas
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="32" /> Tecnologias e Ferramentas
 
 <div style="display: inline_block"><br>
 
@@ -116,3 +116,7 @@ Transformar dados em **informação útil**, criar automações que economizam t
 </div>
 
 ![Visitors](https://komarev.com/ghpvc/?username=RafaelApolinario90&color=blue)
+
+
+
+
