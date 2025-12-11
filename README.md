@@ -103,7 +103,7 @@ Transformar dados em **informação útil**, criar automações que economizam t
 
 ---
 
-### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f40d/512.gif" alt="🐍" width="30" height="32"> Animação das Contribuições
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f40d/512.gif" alt="🐍" width="30" height="32"> Animação das Contribuições
 ![Snake animation](https://github.com/RafaelApolinario90/RafaelApolinario90/blob/output/github-contribution-grid-snake-dark.svg)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="30" height="32" /> Estatísticas do GitHub
