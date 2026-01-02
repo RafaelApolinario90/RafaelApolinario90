@@ -115,14 +115,10 @@ Transformar dados em **informação útil**, criar automações que economizam t
   <img src="https://nirzak-streak-stats.vercel.app/?user=RafaelApolinario90&theme=dark&hide_border=false"/> 
 </div>
 
+
+
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=RafaelApolinario90&theme=github-dark&color=6B9DB0&line=274FF2&point=FFFFFF&area=true&hide_border=true)
+
+
 ![Visitors](https://komarev.com/ghpvc/?username=RafaelApolinario90&color=blue)
-
-
-
-
-
-
-
-
-
-
