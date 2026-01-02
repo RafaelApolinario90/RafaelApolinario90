@@ -108,8 +108,20 @@ Transformar dados em **informação útil**, criar automações que economizam t
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="30" height="32" /> Estatísticas do GitHub
 
-| ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafaelApolinario90&theme=radical) | ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RafaelApolinario90&theme=radical) | 
-| :-: | :-: | 
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=RafaelApolinario90&theme=github-dark&color=6B9DB0&line=274FF2&point=FFFFFF&area=true&hide_border=true"
+           width="500"/>
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafaelApolinario90&theme=radical"
+           width="500"/>
+    </td>
+  </tr>
+</table>
+
 
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=RafaelApolinario90&theme=dark&hide_border=false"/> 
