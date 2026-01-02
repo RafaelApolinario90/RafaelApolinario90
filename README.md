@@ -113,11 +113,11 @@ Transformar dados em **informação útil**, criar automações que economizam t
   <tr>
     <td>
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=RafaelApolinario90&theme=github-dark&color=6B9DB0&line=274FF2&point=FFFFFF&area=true&hide_border=true"
-           width="500"/>
+           width="650"/>
     </td>
     <td>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafaelApolinario90&theme=radical"
-           width="500"/>
+           width="600"/>
     </td>
   </tr>
 </table>
