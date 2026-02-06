@@ -30,6 +30,7 @@
 <div style="display: inline_block"><br>
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
@@ -53,7 +54,7 @@
 ---
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="30" height="32"> Objetivo Profissional
-Atuar como **Analista de Dados**, aplicando Python, SQL, Power BI e Excel para gerar insights e apoiar decisões estratégicas em projetos reais.
+Atuar como **Analista de Dados**, aplicando Python, SQL, Power BI e Excel, com integração de **APIs em FastAPI** para automação, coleta e disponibilização de dados.
 
 ---
 
