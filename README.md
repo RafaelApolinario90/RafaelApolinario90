@@ -53,6 +53,13 @@
 
 ---
 
+## 📚 Atualmente em Aprendizado
+- FastAPI com Python (APIs REST, Swagger, boas práticas)
+- Integração de APIs com projetos de Análise de Dados
+- Automação e backend leve para dados
+
+---
+
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="30" height="32"> Objetivo Profissional
 Atuar como **Analista de Dados**, aplicando Python, SQL, Power BI e Excel, com integração de **APIs em FastAPI** para automação, coleta e disponibilização de dados.
 
@@ -81,7 +88,8 @@ Calculadora interativa utilizando Flask e HTML.
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" alt="Wrench" width="30" height="32" /> Skills Técnicas  
-- **Python (Intermediário)** — Pandas, NumPy, Matplotlib, automações  
+- **Python (Intermediário)** — Pandas, NumPy, Matplotlib  
+- **APIs** — FastAPI (em aprendizado), REST, Swagger
 - **SQL (Básico/Intermediário)** — MySQL, SQLite  
 - **Power BI** — Dashboards, KPIs, DAX  
 - **Excel Avançado** — Funções, Tabelas Dinâmicas, Dashboards  
