@@ -8,7 +8,6 @@
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.gif" alt="🎯" width="20" height="32"> Apaixonado por tecnologia e análise de dados  
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" alt="💡" width="20" height="32"> Buscando oportunidades para aplicar **Python, SQL, Excel e Power BI**  
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30e/512.gif" alt="🌎" width="20" height="32"> Acredito que diversidade e colaboração criam soluções mais inovadoras  
-<img src="https://emojis.wiki/emoji-pics-lf/telegram/squinting-face-with-tongue-telegram.gif" alt="😝" width="20" height="32">
 <br>
 
 ---
@@ -25,7 +24,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="32" /> Tecnologias e Ferramentas
+## <img src="https://emojis.wiki/emoji-pics-lf/telegram/card-index-dividers-telegram.gif" alt="🗂️" width="30" height="32" /> Tecnologias e Ferramentas
 
 <div style="display: inline_block"><br>
 
@@ -44,7 +43,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="30" height="32" /> Áreas de Interesse  
+## <img src="https://emojis.wiki/emoji-pics-lf/telegram/briefcase-telegram.gif" alt="💼" width="30" height="32"/> Áreas de Interesse  
 - Análise de Dados  
 - Business Intelligence  
 - Automação com Python  
@@ -53,7 +52,7 @@
 
 ---
 
-## 📚 Atualmente em Aprendizado
+## <img src="https://emojis.wiki/emoji-pics-lf/telegram/books-telegram.gif" alt="📚" width="30" height="32"/> Atualmente em Aprendizado
 - FastAPI com Python (APIs REST, Swagger, boas práticas)
 - Integração de APIs com projetos de Análise de Dados
 - Automação e backend leve para dados
@@ -66,8 +65,8 @@ Atuar como **Analista de Dados**, aplicando Python, SQL, Power BI e Excel, com i
 ---
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" alt="🎓" width="30" height="32"> Formação
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Blue%20Book.png" alt="Blue Book" width="20" height="32" /> **Análise e Desenvolvimento de Sistemas – Universidade Anhembi Morumbi**  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Calendar.png" alt="Calendar" width="20" height="32" /> *Conclusão prevista: Dezembro de 2025*
+<img src="https://emojis.wiki/emoji-pics-lf/telegram/open-book-telegram.gif" alt="📖" width="25" height="32"/> **Análise e Desenvolvimento de Sistemas – Universidade Anhembi Morumbi**  
+<img src="https://emojis.wiki/emoji-pics-lf/telegram/tear-off-calendar-telegram.gif" alt="📆" width="25" height="32" /> *Conclusão prevista: Dezembro de 2025*
 
 ---
 
@@ -102,7 +101,7 @@ Transformar dados em **informação útil**, criar automações que economizam t
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30px" alt="Hand Shake Emoji"/> Vamos conversar?
+## <img src="https://emojis.wiki/emoji-pics-lf/telegram/handshake-telegram.gif" width="30px" alt="🤝"/> Vamos conversar?
 
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:rafael.f.apolinario@outlook.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-apolin%C3%A1rio-pcd-a95034121)
 
@@ -112,10 +111,10 @@ Transformar dados em **informação útil**, criar automações que economizam t
 
 ---
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f40d/512.gif" alt="🐍" width="30" height="32"> Animação das Contribuições
+## <img src="https://emojis.wiki/emoji-pics-lf/telegram/snake-telegram.gif" alt="🐍" width="35" height="35"> Animação das Contribuições
 ![Snake animation](https://github.com/RafaelApolinario90/RafaelApolinario90/blob/output/github-contribution-grid-snake-dark.svg)
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="30" height="32" /> Estatísticas do GitHub
+## <img src="https://emojis.wiki/emoji-pics-lf/telegram/bar-chart-telegram.gif" alt="📊" width="30" height="32" /> Estatísticas do GitHub
 
 
 <div align="center">
