@@ -16,7 +16,7 @@
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="30" height="32"> Palavra Bíblica do Dia
 
 <p align="center">
-  <i><b>"O Senhor é o meu pastor, nada me faltará." — Salmos 23:1</b></i>
+  <i><b>"DEUS é o nosso refúgio e fortaleza, socorro bem-presente na angústia." — Salmos 46:1</b></i>
 </p>
 
 <p align="center">
