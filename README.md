@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <img src="http://img.shields.io/static/v1?label=STATUS&message=ESTUDANTE%20A%20ANALISTA%20DE%20DADOS&color=2ECC71&style=for-the-badge"/>
+  <img src="http://img.shields.io/static/v1?label=STATUS&message=ESTUDANTE%20DE%20ANALISTA%20DE%20DADOS&color=2ECC71&style=for-the-badge"/>
 </p>
 
 ---
