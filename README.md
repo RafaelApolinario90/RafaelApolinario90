@@ -107,14 +107,14 @@ Transformar dados em **informação útil**, criar automações que economizam t
 
 ---
 
-> “O segredo do sucesso é nunca parar de aprender — especialmente no mundo dos dados.”
+<img src="https://emojis.wiki/emoji-pics-lf/telegram/newspaper-telegram.gif" alt="📰" width="30" height="32"/>  "O segredo do sucesso é nunca parar de aprender <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="15" height="15"> Especialmente no mundo dos dados."
 
 ---
 
 ## <img src="https://emojis.wiki/emoji-pics-lf/telegram/snake-telegram.gif" alt="🐍" width="35" height="35"> Animação das Contribuições
 ![Snake animation](https://github.com/RafaelApolinario90/RafaelApolinario90/blob/output/github-contribution-grid-snake-dark.svg)
 
-## <img src="https://emojis.wiki/emoji-pics-lf/telegram/bar-chart-telegram.gif" alt="📊" width="30" height="32" /> Estatísticas do GitHub
+## <img src="https://emojis.wiki/emoji-pics-lf/telegram/bar-chart-telegram.gif" alt="📊" width="30" height="32"/> Estatísticas do GitHub
 
 
 <div align="center">
