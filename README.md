@@ -142,5 +142,3 @@ Transformar dados em **informação útil**, criar automações que economizam t
 ![Visitors](https://komarev.com/ghpvc/?username=RafaelApolinario90&color=blue)
 
 
-
-
