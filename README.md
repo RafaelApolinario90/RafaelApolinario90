@@ -103,7 +103,7 @@ Transformar dados em **informação útil**, criar automações que economizam t
 
 ## <img src="https://emojis.wiki/emoji-pics-lf/telegram/handshake-telegram.gif" width="30px" alt="🤝"/> Vamos conversar?
 
-[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:rafael.f.apolinario@outlook.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-apolin%C3%A1rio-pcd-a95034121)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:rafael.f.apolinario@outlook.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-apolin%C3%A1rio-a95034121/)
 
 ---
 
