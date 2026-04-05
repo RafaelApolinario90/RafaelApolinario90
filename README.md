@@ -134,9 +134,8 @@ Transformar dados em **informação útil**, criar automações que economizam t
 </div>
 
 
-
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=RafaelApolinario90&theme=dark&hide_border=false"/> 
+  <img src="https://streak-stats.demolab.com/?user=RafaelApolinario90&theme=dark"/> 
 </div>
 
 ![Visitors](https://komarev.com/ghpvc/?username=RafaelApolinario90&color=blue)
