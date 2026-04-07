@@ -15,7 +15,7 @@
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="30" height="32">  Palavra Bíblica do Dia <img src="https://emojis.wiki/emoji-pics-lf/telegram/dove-telegram.gif" alt="🕊️" width="30" height="32">
 
 <p align="center">
-  <i><b>"DEUS é o nosso refúgio e fortaleza, socorro bem-presente na angústia." — Salmos 46:1</b></i>
+  <i><b>"O SENHOR é o meu pastor; nada me faltará." — Salmos 23:1</b></i>
 </p>
 
 <p align="center">
