@@ -4,7 +4,7 @@
 
 <br><br><br>
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9bb_1f3fb/512.gif" alt="🦻" width="20" height="32"> **Pessoa com Deficiência Auditiva (PCD)**  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Round%20Pushpin.png" alt="Round Pushpin" width="20" height="32" /> **São Paulo – Brasil**  
+<img src="https://media.giphy.com/media/1oF1MaxVOqrgtG4hev/giphy.gif" alt="Round Pushpin" width="20" height="32"> **São Paulo – Brasil**  
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.gif" alt="🎯" width="20" height="32"> Apaixonado por tecnologia e análise de dados  
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" alt="💡" width="20" height="32"> Buscando oportunidades para aplicar **Python, SQL, Excel e Power BI**  
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30e/512.gif" alt="🌎" width="20" height="32"> Acredito que diversidade e colaboração criam soluções mais inovadoras  
