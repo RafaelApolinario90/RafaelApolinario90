@@ -97,12 +97,51 @@ Calculadora interativa utilizando Flask e HTML.
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" alt="Wrench" width="30" height="32" /> Skills Técnicas  
-- **Python (Intermediário)** — Pandas, NumPy, Matplotlib  
-- **APIs** — FastAPI (em aprendizado), REST, Swagger
-- **SQL (Básico/Intermediário)** — MySQL, SQLite  
-- **Power BI** — Dashboards, KPIs, DAX  
-- **Excel Avançado** — Funções, Tabelas Dinâmicas, Dashboards  
-- **Git e GitHub** — versionamento e colaboração  
+
+  *Sistemas Operacionais*
+  
+- Windows 10 e Windows 11
+- Linux (Ubuntu)
+  
+ *Hardware*
+  
+- Montagem e manutenção de computadores
+- Instalação e configuração de hardware
+- Diagnóstico de problemas
+  
+ *Redes*
+ 
+- Conceitos de Redes TCP/IP
+- DNS
+- DHCP
+- Ping
+- Traceroute
+- IPConfig
+- Conceitos de VPN
+  
+ *Ferramentas*
+ 
+- PowerShell
+- Prompt de Comando (CMD)
+- Terminal Linux (Bash)
+- Git
+- GitHub
+- VS Code
+  
+ *Suporte*
+ 
+- Instalação de programas
+- Configuração de sistemas
+- Troubleshooting
+- Atendimento ao usuário
+- Documentação técnica
+  
+ *Conhecimentos Complementares*
+ 
+- Python (básico)
+- SQL (básico)
+- Excel
+- Power BI (básico)
 
 ---
 
