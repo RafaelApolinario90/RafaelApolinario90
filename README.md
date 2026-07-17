@@ -63,9 +63,15 @@
 ---
 
 ## <img src="https://emojis.wiki/emoji-pics-lf/telegram/books-telegram.gif" alt="📚" width="30" height="32"/> Atualmente em Aprendizado
-- FastAPI com Python (APIs REST, Swagger, boas práticas)
-- Integração de APIs com projetos de Análise de Dados
-- Automação e backend leve para dados
+- Suporte Técnico
+- Hardware e Software
+- Sistemas Operacionais (Windows e Linux)
+- Redes de Computadores
+- Administração de Sistemas
+- Segurança em TI
+- Troubleshooting (Resolução de Problemas)
+- Atendimento ao Usuário
+- Ferramentas de Linha de Comando (PowerShell, CMD e Linux Terminal)
 
 ---
 
