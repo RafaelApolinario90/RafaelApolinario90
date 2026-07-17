@@ -146,7 +146,7 @@ Calculadora interativa utilizando Flask e HTML.
 ---
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" width="30" height="32"> O que me motiva?
-Transformar dados em **informação útil**, criar automações que economizam tempo e aprender constantemente novas técnicas de Análise de Dados e Ciência de Dados.
+Sou apaixonado por tecnologia e pela resolução de problemas. Tenho interesse em compreender o funcionamento de sistemas, identificar falhas e oferecer soluções que facilitem o trabalho dos usuários. Estou sempre buscando aprender novas ferramentas, boas práticas e tecnologias para evoluir profissionalmente e construir uma carreira sólida em Suporte de TI.
 
 ---
 
