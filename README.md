@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=1AF705&center=true&vCenter=true&width=650&lines=👋+Olá!+Eu+sou+o+Rafael+Apolinário;📚+Estudante+de+Análise+de+Dados;📊Apaixonado+por+Python,+FastAPI,+SQL,+Excel+e+PowerBI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=1AF705&center=true&vCenter=true&width=650&lines=👋+Olá!+Eu+sou+o+Rafael+Apolinário;📚+Estudante+Suporte+em+TI)](https://git.io/typing-svg)
 
 <img style="margin-top:2000px" align="right" width="390px" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dfredg5-0a60e875-646e-4d6c-bb91-73086f012808.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jODNjMDA0ZS0xMzcwLTQ3NTYtODhlNS00MDcxZGU3OTcwODgvZGZyZWRnNS0wYTYwZTg3NS02NDZlLTRkNmMtYmI5MS03MzA4NmYwMTI4MDguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.lnsMUNg7ATclGioenszRTwXXMFgtF4XG1nId-Sn1NcY">
 
@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="http://img.shields.io/static/v1?label=STATUS&message=ESTUDANTE%20DE%20ANALISE%20DE%20DADOS&color=2ECC71&style=for-the-badge"/>
+  <img src="http://img.shields.io/static/v1?label=STATUS&message=ESTUDANTE%20SUPORTE%20EM%20TI%20&color=2ECC71&style=for-the-badge"/>
 </p>
 
 ---
