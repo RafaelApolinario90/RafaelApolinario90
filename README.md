@@ -44,11 +44,21 @@
 ---
 
 ## <img src="https://emojis.wiki/emoji-pics-lf/telegram/briefcase-telegram.gif" alt="💼" width="30" height="32"/> Áreas de Interesse  
-- Análise de Dados  
-- Business Intelligence  
-- Automação com Python  
-- SQL & Bancos de Dados  
-- Visualização e Dashboards  
+- Suporte de TI (IT Support)
+- Help Desk & Service Desk
+- Manutenção de Computadores
+- Hardware e Software
+- Impressoras e Periféricos
+- Sistemas Operacionais Windows
+- Linux (Ubuntu)
+- PowerShell
+- Prompt de Comando (CMD)
+- Redes de Computadores
+- Active Directory
+- Microsoft 365
+- Virtualização
+- Automação com Python
+- Git e GitHub
 
 ---
 
