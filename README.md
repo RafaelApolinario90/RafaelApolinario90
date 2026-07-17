@@ -70,7 +70,7 @@
 ---
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="30" height="32"> Objetivo Profissional
-Atuar como **Analista de Dados**, aplicando Python, SQL, Power BI e Excel, com integração de **APIs em FastAPI** para automação, coleta e disponibilização de dados.
+ Busco minha primeira oportunidade na área de Tecnologia da Informação como Suporte de TI, Help Desk ou Service Desk, onde eu possa aplicar meus conhecimentos técnicos, desenvolver novas habilidades e contribuir para a resolução de problemas, atendimento aos usuários e melhoria dos serviços de TI. Estou comprometido com o aprendizado contínuo e com o crescimento profissional na área.
 
 ---
 
@@ -146,7 +146,7 @@ Calculadora interativa utilizando Flask e HTML.
 ---
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" width="30" height="32"> O que me motiva?
-Sou apaixonado por tecnologia e pela resolução de problemas. Tenho interesse em compreender o funcionamento de sistemas, identificar falhas e oferecer soluções que facilitem o trabalho dos usuários. Estou sempre buscando aprender novas ferramentas, boas práticas e tecnologias para evoluir profissionalmente e construir uma carreira sólida em Suporte de TI.
+ Sou apaixonado por tecnologia e pela resolução de problemas. Tenho interesse em compreender o funcionamento de sistemas, identificar falhas e oferecer soluções que facilitem o trabalho dos usuários. Estou sempre buscando aprender novas ferramentas, boas práticas e tecnologias para evoluir profissionalmente e construir uma carreira sólida em Suporte de TI.
 
 ---
 
