@@ -1,15 +1,15 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=1AF705&center=true&vCenter=true&width=650&lines=👋+Olá!+Eu+sou+o+Rafael+Apolinário;📚+Estudante+Suporte+em+TI)](https://git.io/typing-svg)
 
-<img style="margin-top:2000px" align="right" width="390px" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dfredg5-0a60e875-646e-4d6c-bb91-73086f012808.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jODNjMDA0ZS0xMzcwLTQ3NTYtODhlNS00MDcxZGU3OTcwODgvZGZyZWRnNS0wYTYwZTg3NS02NDZlLTRkNmMtYmI5MS03MzA4NmYwMTI4MDguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.lnsMUNg7ATclGioenszRTwXXMFgtF4XG1nId-Sn1NcY">
+<img style="margin-top:2000px" align="right" width="450px" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dfredg5-0a60e875-646e-4d6c-bb91-73086f012808.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jODNjMDA0ZS0xMzcwLTQ3NTYtODhlNS00MDcxZGU3OTcwODgvZGZyZWRnNS0wYTYwZTg3NS02NDZlLTRkNmMtYmI5MS03MzA4NmYwMTI4MDguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.lnsMUNg7ATclGioenszRTwXXMFgtF4XG1nId-Sn1NcY">
 
-<br><br><br>
+<br><br><br><br><br><br>
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9bb_1f3fb/512.gif" alt="🦻" width="20" height="32"> **Pessoa com Deficiência Auditiva (PCD)**  
 <img src="https://media.giphy.com/media/1oF1MaxVOqrgtG4hev/giphy.gif" alt="Round Pushpin" width="20" height="32"> **São Paulo – Brasil**  
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.gif" alt="🎯" width="20" height="32"> Apaixonado por tecnologia e análise de dados  
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" alt="💡" width="20" height="32"> Buscando oportunidades para aplicar **Python, SQL, Excel e Power BI**  
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30e/512.gif" alt="🌎" width="20" height="32"> Acredito que diversidade e colaboração criam soluções mais inovadoras  
-<br>
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.gif" alt="🎯" width="20" height="32"> Apaixonado por tecnologia, suporte técnico e infraestrutura de TI  
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" alt="💡" width="20" height="32"> Buscando minha primeira oportunidade em **Suporte de TI**, com foco em **Help Desk, Service Desk, Windows, Linux, Redes, Hardware e PowerShell**  
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30e/512.gif" alt="🌎" width="20" height="32"> Acredito que diversidade, colaboração e aprendizado contínuo impulsionam a inovação.
 
+<br><br><br>
 ---
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="30" height="32">  Palavra Bíblica do Dia <img src="https://emojis.wiki/emoji-pics-lf/telegram/dove-telegram.gif" alt="🕊️" width="30" height="32">
