@@ -190,7 +190,6 @@ Calculadora interativa utilizando Flask e HTML.
 
 
 <div align="center">
-  <img src="https://github.com/Debora-Carvalho/Debora-Carvalho/blob/main/img/rocket-launch.png" width="250" align="left" style="margin-right: 150px;" />
   <img src="https://streak-stats.demolab.com/?user=RafaelApolinario90&theme=dark"/> 
 </div>
 
