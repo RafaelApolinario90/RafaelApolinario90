@@ -198,5 +198,3 @@ Calculadora interativa utilizando Flask e HTML.
 ![Visitors](https://komarev.com/ghpvc/?username=RafaelApolinario90&color=blue)
 
 
-
-
