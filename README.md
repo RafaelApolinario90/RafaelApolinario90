@@ -82,7 +82,7 @@
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" alt="🎓" width="30" height="32"> Formação
 <img src="https://emojis.wiki/emoji-pics-lf/telegram/open-book-telegram.gif" alt="📖" width="25" height="32"/> **Análise e Desenvolvimento de Sistemas – Universidade Anhembi Morumbi**  
-<img src="https://emojis.wiki/emoji-pics-lf/telegram/tear-off-calendar-telegram.gif" alt="📆" width="25" height="32" /> *Conclusão prevista: Dezembro de 2025*
+<img src="https://emojis.wiki/emoji-pics-lf/telegram/tear-off-calendar-telegram.gif" alt="📆" width="25" height="32" /> *Conclusão: Julho de 2026*
 
 ---
 
